@@ -1,0 +1,779 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{52C2A136-5337-427F-AD64-5501A26BE098}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Csharp</RootNamespace>
+    <AssemblyName>Csharp</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.7.1\lib\net45\LiveCharts.WinForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PLCcomMB, Version=6.5.1.0, Culture=neutral, PublicKeyToken=c6316954d5443e4e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\PLCcomMB.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\PistonRightLeft.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\PistonRightLeft.Designer.cs">
+      <DependentUpon>PistonRightLeft.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PistonUpDown.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\PistonUpDown.Designer.cs">
+      <DependentUpon>PistonUpDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\RectangleShape.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\RoundedButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EventsAggregator\eChangedTableLayout.cs" />
+    <Compile Include="EventsAggregator\eDelikCakismaDeleteSubPart.cs" />
+    <Compile Include="EventsAggregator\eChangedStopEvent.cs" />
+    <Compile Include="EventsAggregator\eUpdate_RecipeList.cs" />
+    <Compile Include="EventsAggregator\eMachineParameterChanged.cs" />
+    <Compile Include="EventsAggregator\eRecipeParameterChanged.cs" />
+    <Compile Include="EventsAggregator\eSelectedRecipeChanged.cs" />
+    <Compile Include="EventsAggregator\eChangedStartEvent.cs" />
+    <Compile Include="EventsAggregator\FallingEdgeTrigger.cs" />
+    <Compile Include="EventsAggregator\RisingEdgeTrigger_ChangedPart.cs" />
+    <Compile Include="EventsAggregator\RisingEdgeTrigger_PartIncrement.cs" />
+    <Compile Include="EventsAggregator\RisingEdgeTrigger_Start.cs" />
+    <Compile Include="EventsAggregator\RisingEdgeTrigger_Stop.cs" />
+    <Compile Include="EventsAggregator\staticCsharpStdCnd_Ok.cs" />
+    <Compile Include="EventsAggregator\staticSelectedRecipe.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IOs\Modbus.cs" />
+    <Compile Include="MyLibs\ChangedPartResetSignals.cs" />
+    <Compile Include="MyLibs\StartButtonResetSignals.cs" />
+    <Compile Include="MyLibs\StopButtonResetSignals.cs" />
+    <Compile Include="MyLibs\TabButtonResetSignals.cs" />
+    <Compile Include="OptimizationAlgorithm\Bar.cs" />
+    <Compile Include="OptimizationAlgorithm\CuttingPattern.cs" />
+    <Compile Include="OptimizationAlgorithm\CuttingPlan.cs" />
+    <Compile Include="OptimizationAlgorithm\Heuristics.cs" />
+    <Compile Include="OptimizationAlgorithm\LengthComparer.cs" />
+    <Compile Include="Pages\DelikFormuller\uc_Page_DelikFormuller.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\DelikFormuller\uc_Page_DelikFormuller.Designer.cs">
+      <DependentUpon>uc_Page_DelikFormuller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MachinePars\MachinePars_ToPLC.cs" />
+    <Compile Include="Pages\Production\cConfiguration.cs" />
+    <Compile Include="Pages\Production\Dialog_AddSubPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\Dialog_AddSubPart.Designer.cs">
+      <DependentUpon>Dialog_AddSubPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\uc_Production.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\uc_Production.Designer.cs">
+      <DependentUpon>uc_Production.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\uc_SeriUretimPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\uc_SeriUretimPage.Designer.cs">
+      <DependentUpon>uc_SeriUretimPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\uc_TekUretimPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\uc_TekUretimPage.Designer.cs">
+      <DependentUpon>uc_TekUretimPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_11x20Slot2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_11x20Slot2.Designer.cs">
+      <DependentUpon>uc_11x20Slot2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_IlaveBosaltma6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_IlaveBosaltma6.Designer.cs">
+      <DependentUpon>uc_IlaveBosaltma6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_IlaveBosaltma45_5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_IlaveBosaltma45_5.Designer.cs">
+      <DependentUpon>uc_IlaveBosaltma45_5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_AnaBosaltma.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_AnaBosaltma.Designer.cs">
+      <DependentUpon>uc_AnaBosaltma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_AnaBosaltmaAlt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_AnaBosaltmaAlt.Designer.cs">
+      <DependentUpon>uc_AnaBosaltmaAlt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_AnaBosaltmaUst.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_AnaBosaltmaUst.Designer.cs">
+      <DependentUpon>uc_AnaBosaltmaUst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_Cap7_Sol.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_Cap7_Sol.Designer.cs">
+      <DependentUpon>uc_Cap7_Sol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_IlaveBosaltma.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_IlaveBosaltma.Designer.cs">
+      <DependentUpon>uc_IlaveBosaltma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_IlaveBosaltmaAlt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_IlaveBosaltmaAlt.Designer.cs">
+      <DependentUpon>uc_IlaveBosaltmaAlt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_IlaveBosaltmaUst.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_IlaveBosaltmaUst.Designer.cs">
+      <DependentUpon>uc_IlaveBosaltmaUst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\uc_GripperFire.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\uc_GripperFire.Designer.cs">
+      <DependentUpon>uc_GripperFire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\uc_KafaFire.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\uc_KafaFire.Designer.cs">
+      <DependentUpon>uc_KafaFire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\uc_KalanPart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\uc_KalanPart.Designer.cs">
+      <DependentUpon>uc_KalanPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\uc_KesmeFire.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\uc_KesmeFire.Designer.cs">
+      <DependentUpon>uc_KesmeFire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\uc_SubbPart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\uc_SubbPart.Designer.cs">
+      <DependentUpon>uc_SubbPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\RecipePars\AddNewDelik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\RecipePars\AddNewDelik.Designer.cs">
+      <DependentUpon>AddNewDelik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\RecipePars\AddRecipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\RecipePars\AddRecipe.Designer.cs">
+      <DependentUpon>AddRecipe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\RecipePars\cHamGovde.cs" />
+    <Compile Include="Pages\RecipePars\Delik.cs" />
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_11x20Slot.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_11x20Slot.Designer.cs">
+      <DependentUpon>uc_11x20Slot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_BasTakozSlotlari_Ters.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_BasTakozSlotlari_Ters.Designer.cs">
+      <DependentUpon>uc_BasTakozSlotlari_Ters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_BasTakozSlotlari.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_BasTakozSlotlari.Designer.cs">
+      <DependentUpon>uc_BasTakozSlotlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_Cap7_Sag.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_Cap7_Sag.Designer.cs">
+      <DependentUpon>uc_Cap7_Sag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_ManivelaDeligi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Production\usercontrols\DelikUserController\uc_ManivelaDeligi.Designer.cs">
+      <DependentUpon>uc_ManivelaDeligi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\RecipePars\OperationRecipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\RecipePars\OperationRecipe.Designer.cs">
+      <DependentUpon>OperationRecipe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\RecipePars\RecipeParameters.cs" />
+    <Compile Include="Pages\RecipePars\RecipePars_ToPLC.cs" />
+    <Compile Include="Pages\RecipePars\SaveAsRecipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\RecipePars\SaveAsRecipe.Designer.cs">
+      <DependentUpon>SaveAsRecipe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\RecipePars\uc_RecipeParsPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\RecipePars\uc_RecipeParsPage.Designer.cs">
+      <DependentUpon>uc_RecipeParsPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\RecipePars\uc_recipepar_bool.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\RecipePars\uc_recipepar_bool.Designer.cs">
+      <DependentUpon>uc_recipepar_bool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\RecipePars\uc_recipepar_numerik.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\RecipePars\uc_recipepar_numerik.Designer.cs">
+      <DependentUpon>uc_recipepar_numerik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Warnings\uc_warning.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Warnings\uc_warning.Designer.cs">
+      <DependentUpon>uc_warning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Warnings\uc_Warnings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Warnings\uc_Warnings.Designer.cs">
+      <DependentUpon>uc_Warnings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\General\MyMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\General\MyMessageBox.Designer.cs">
+      <DependentUpon>MyMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\General\MyNumPad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\General\MyNumPad.Designer.cs">
+      <DependentUpon>MyNumPad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MachinePars\Frm_MachinePars_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\MachinePars\Frm_MachinePars_Login.Designer.cs">
+      <DependentUpon>Frm_MachinePars_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MachinePars\MachineParameters.cs" />
+    <Compile Include="Pages\MachinePars\uc_machinepar_bool.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\MachinePars\uc_machinepar_bool.Designer.cs">
+      <DependentUpon>uc_machinepar_bool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MachinePars\uc_machinepar_numerik.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\MachinePars\uc_machinepar_numerik.Designer.cs">
+      <DependentUpon>uc_machinepar_numerik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ProductionPage\ProductionRecords.cs" />
+    <Compile Include="Pages\Alarms\uc_alarm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Alarms\uc_alarm.Designer.cs">
+      <DependentUpon>uc_alarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Alarms\uc_Alarms.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Alarms\uc_Alarms.Designer.cs">
+      <DependentUpon>uc_Alarms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\StartConditions\uc_startcond.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\StartConditions\uc_startcond.Designer.cs">
+      <DependentUpon>uc_startcond.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\StartConditions\uc_StartCondPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\StartConditions\uc_StartCondPage.Designer.cs">
+      <DependentUpon>uc_StartCondPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Signals\uc_signal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Signals\uc_signal.Designer.cs">
+      <DependentUpon>uc_signal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\uc_AboutPage .cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\uc_AboutPage .Designer.cs">
+      <DependentUpon>uc_AboutPage .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\uc_ServicePage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\uc_ServicePage.Designer.cs">
+      <DependentUpon>uc_ServicePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Signals\uc_SignalsPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Signals\uc_SignalsPage.Designer.cs">
+      <DependentUpon>uc_SignalsPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ProductionPage\uc_ProductionPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\ProductionPage\uc_ProductionPage.Designer.cs">
+      <DependentUpon>uc_ProductionPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\uc_StationStatusPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\uc_StationStatusPage.Designer.cs">
+      <DependentUpon>uc_StationStatusPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MachinePars\uc_MachParsPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\MachinePars\uc_MachParsPage.Designer.cs">
+      <DependentUpon>uc_MachParsPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\JogPage\uc_JogPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\JogPage\uc_JogPage.Designer.cs">
+      <DependentUpon>uc_JogPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\uc_HomePage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\uc_HomePage.Designer.cs">
+      <DependentUpon>uc_HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Controls\PistonUpDown.resx">
+      <DependentUpon>PistonUpDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\DelikFormuller\uc_Page_DelikFormuller.resx">
+      <DependentUpon>uc_Page_DelikFormuller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\Dialog_AddSubPart.resx">
+      <DependentUpon>Dialog_AddSubPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\uc_Production.resx">
+      <DependentUpon>uc_Production.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\uc_SeriUretimPage.resx">
+      <DependentUpon>uc_SeriUretimPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\uc_TekUretimPage.resx">
+      <DependentUpon>uc_TekUretimPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\DelikUserController\uc_11x20Slot2.resx">
+      <DependentUpon>uc_11x20Slot2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\DelikUserController\uc_IlaveBosaltma6.resx">
+      <DependentUpon>uc_IlaveBosaltma6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\DelikUserController\uc_IlaveBosaltma45_5.resx">
+      <DependentUpon>uc_IlaveBosaltma45_5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\DelikUserController\uc_AnaBosaltma.resx">
+      <DependentUpon>uc_AnaBosaltma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\DelikUserController\uc_AnaBosaltmaAlt.resx">
+      <DependentUpon>uc_AnaBosaltmaAlt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\DelikUserController\uc_AnaBosaltmaUst.resx">
+      <DependentUpon>uc_AnaBosaltmaUst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\DelikUserController\uc_Cap7_Sol.resx">
+      <DependentUpon>uc_Cap7_Sol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\uc_GripperFire.resx">
+      <DependentUpon>uc_GripperFire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\uc_KafaFire.resx">
+      <DependentUpon>uc_KafaFire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\uc_KalanPart.resx">
+      <DependentUpon>uc_KalanPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\uc_KesmeFire.resx">
+      <DependentUpon>uc_KesmeFire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\uc_SubbPart.resx">
+      <DependentUpon>uc_SubbPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\RecipePars\AddNewDelik.resx">
+      <DependentUpon>AddNewDelik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\DelikUserController\uc_11x20Slot.resx">
+      <DependentUpon>uc_11x20Slot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\DelikUserController\uc_BasTakozSlotlari_Ters.resx">
+      <DependentUpon>uc_BasTakozSlotlari_Ters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\DelikUserController\uc_BasTakozSlotlari.resx">
+      <DependentUpon>uc_BasTakozSlotlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\DelikUserController\uc_Cap7_Sag.resx">
+      <DependentUpon>uc_Cap7_Sag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Production\usercontrols\DelikUserController\uc_ManivelaDeligi.resx">
+      <DependentUpon>uc_ManivelaDeligi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\RecipePars\uc_RecipeParsPage.resx">
+      <DependentUpon>uc_RecipeParsPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Warnings\uc_warning.resx">
+      <DependentUpon>uc_warning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Warnings\uc_Warnings.resx">
+      <DependentUpon>uc_Warnings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\General\MyMessageBox.resx">
+      <DependentUpon>MyMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\General\MyNumPad.resx">
+      <DependentUpon>MyNumPad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\MachinePars\Frm_MachinePars_Login.resx">
+      <DependentUpon>Frm_MachinePars_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\MachinePars\uc_machinepar_bool.resx">
+      <DependentUpon>uc_machinepar_bool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\MachinePars\uc_machinepar_numerik.resx">
+      <DependentUpon>uc_machinepar_numerik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Alarms\uc_alarm.resx">
+      <DependentUpon>uc_alarm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Alarms\uc_Alarms.resx">
+      <DependentUpon>uc_Alarms.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\StartConditions\uc_startcond.resx">
+      <DependentUpon>uc_startcond.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\StartConditions\uc_StartCondPage.resx">
+      <DependentUpon>uc_StartCondPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Signals\uc_signal.resx">
+      <DependentUpon>uc_signal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\uc_AboutPage .resx">
+      <DependentUpon>uc_AboutPage .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\uc_ServicePage.resx">
+      <DependentUpon>uc_ServicePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Signals\uc_SignalsPage.resx">
+      <DependentUpon>uc_SignalsPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\ProductionPage\uc_ProductionPage.resx">
+      <DependentUpon>uc_ProductionPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\uc_StationStatusPage.resx">
+      <DependentUpon>uc_StationStatusPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\MachinePars\uc_MachParsPage.resx">
+      <DependentUpon>uc_MachParsPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\JogPage\uc_JogPage.resx">
+      <DependentUpon>uc_JogPage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\uc_HomePage.resx">
+      <DependentUpon>uc_HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\homepage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\defarlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\alarm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\startcondition.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\backspace.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\defar logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Anasayfa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxFOXITREADERLib">
+      <Guid>{3A8BD65E-9922-4162-A649-83F2D5326BBE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="FOXITREADERLib">
+      <Guid>{3A8BD65E-9922-4162-A649-83F2D5326BBE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\homepage.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\running.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\stop.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ready_.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\waiting.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\GirisConv.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kapakbesleme.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\manipulator.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\etiket.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cikisconv.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\run.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\clamp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\unclamp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\power_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\power_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\no_homing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ok_homing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\location.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kolisurme.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Capture2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\down-up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Capture3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\edit2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Apply.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

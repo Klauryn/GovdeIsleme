@@ -1,0 +1,407 @@
+<?xml version="1.0" standalone="yes"?>
+<Station_x0020_Status_x0020_Koli_x0020_AcmaBantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>0</Key>
+    <Value>Koli Açma ve Bantlama</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>1</Key>
+    <Value>Bantlama veya dikey servo home yapmamış.Bekliyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>2</Key>
+    <Value>Koli düzeltme 1Mt dikey yukarıda sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>3</Key>
+    <Value>Koli düzeltme 3Mt dikey yukarıda sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>4</Key>
+    <Value>Koli düzeltme 4Mt dikey yukarıda sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>5</Key>
+    <Value>Koli düzeltme yan piston 1Mt açık sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>6</Key>
+    <Value>Koli düzeltme yan piston 3Mt açık sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>7</Key>
+    <Value>Koli düzeltme yan piston 4Mt açık sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>8</Key>
+    <Value>Vakum döner piston geride sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>9</Key>
+    <Value>Dikey servo gripper ı açık sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>10</Key>
+    <Value>Uzun kulak kapama pistonu geride sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>11</Key>
+    <Value>Arka kısa kulak kapama geride sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>12</Key>
+    <Value>Ön kısa kulak kapama geride sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>13</Key>
+    <Value>Vantuzlar ileri-geri kalem pistonlar geride sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>14</Key>
+    <Value>Gripper dikey servo güvenli pozisyona gidiyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>15</Key>
+    <Value>Üst yatay eksen pistonunun alma pozisyonunda sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>16</Key>
+    <Value>Arka kısa kulak ileri-geri pistonun geride sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>17</Key>
+    <Value>Bantlama servosu bekleme pozisyonuna gitmesi bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>18</Key>
+    <Value>Koli sürmeden kolinin hazırlanması bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>19</Key>
+    <Value>Gripper dikey servo alma pozisyonuna iniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>20</Key>
+    <Value>Gripper kapandı sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>21</Key>
+    <Value>Gripper dikey servo güvenli pozisyonuna çıkıyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>22</Key>
+    <Value>Üst yatay eksen pistonunun koyma pozisyonunda sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>23</Key>
+    <Value>Gripper dikey servo koyma pozisyonuna iniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>24</Key>
+    <Value>Vantuzları taşıyan döner piston ileri sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>25</Key>
+    <Value>Koli düzeltme 1Mt dikey aşağıda sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>26</Key>
+    <Value>Koli düzeltme 1Mt ve 3mt dikey aşağıda sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>27</Key>
+    <Value>Koli düzeltme 1Mt,3mt ve 4mt dikey aşağıda sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>28</Key>
+    <Value>Koli düzeltme yan piston 1Mt açık sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>29</Key>
+    <Value>Koli düzeltme yan piston 1Mt ve 3mt açık sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>30</Key>
+    <Value>Koli düzeltme yan piston 1Mt,3mt ve 4mt açık sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>31</Key>
+    <Value>Arka kulak kapama ileri-geri piston ileride sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>32</Key>
+    <Value>Arka kulak kapama piston kulak kapandı sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>33</Key>
+    <Value>Bantlama Servosu 1mt kulak kapama pozisyonuna gidiyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>34</Key>
+    <Value>Bantlama Servosu 3mt kulak kapama pozisyonuna gidiyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>35</Key>
+    <Value>Bantlama Servosu 4mt kulak kapama pozisyonuna gidiyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>36</Key>
+    <Value>Uzun kulak kapama pistonu ileri sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>37</Key>
+    <Value>Ön kısa kulak kapama ileride sensörü bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>38</Key>
+    <Value>Bantlama servosu bantlamayı bitirmesi bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>39</Key>
+    <Value>Bantlama servosu tahliyeyi bekleme pozisyonuna bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>40</Key>
+    <Value>Koli hazırlandı. Tahliye için manipulator tarafından istek bekleniyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>41</Key>
+    <Value>Koli tahliye ediliyor.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>42</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>43</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>44</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>45</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>46</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>47</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>48</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>49</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>50</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>51</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>52</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>53</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>54</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>55</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>56</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>57</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>58</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>59</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>60</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>61</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>62</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>63</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>64</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>65</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>66</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>67</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>68</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>69</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>70</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>71</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>72</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>73</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>74</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>75</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>76</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>77</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>78</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>79</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>80</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>81</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>82</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>83</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>84</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>85</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>86</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>87</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>88</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>89</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>90</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>91</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>92</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>93</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>94</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>95</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>96</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>97</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>98</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>99</Key>
+    <Value>Manuel Mode Aktif.</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+  <Koli_x0020_Acma_x0020_Bantlama>
+    <Key>100</Key>
+    <Value>Reserve</Value>
+  </Koli_x0020_Acma_x0020_Bantlama>
+</Station_x0020_Status_x0020_Koli_x0020_AcmaBantlama>

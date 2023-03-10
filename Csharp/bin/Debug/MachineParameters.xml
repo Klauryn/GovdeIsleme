@@ -1,0 +1,635 @@
+<?xml version="1.0" standalone="yes"?>
+<Machine_x0020_Parameters>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Manivela Deliği Sol</Alias>
+    <Value>True</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Manivela Deliği Sağ</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Vida ve Soğutma İnce Tip Aktif</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Tip Kontrol Aktif</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Anaboşaltma Manivela Aktif</Alias>
+    <Value>True</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_5</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_6</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_7</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_8</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_9</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_10</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_11</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_12</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_13</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_14</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_15</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_16</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_17</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_18</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_19</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_20</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_21</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_22</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_23</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_24</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_25</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_26</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_27</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_28</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_29</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_30</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Bools>
+    <Alias>Reserve_31</Alias>
+    <Value>False</Value>
+  </Machine_x0020_Parameters_x0020_Bools>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Parça Sürme Servo Manuel Hızı (mm/s)</Alias>
+    <Value>200</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Parça Sürme Servo Otomatik Hızı (mm/s)</Alias>
+    <Value>1000</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Servo Sağ Kalıp Ayar Servosu Manuel Hızı (mm/s)</Alias>
+    <Value>10</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Servo Sağ Kalıp Ayar Servosu Otomatik Hızı (mm/s)</Alias>
+    <Value>30</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Servo Sol Kalıp Ayar Servosu Manuel Hızı (mm/s)</Alias>
+    <Value>10</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Servo Sol Kalıp Ayar Servosu Otomatik Hızı (mm/s)</Alias>
+    <Value>30</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Gripper Firesi (mm)</Alias>
+    <Value>15</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Kesme Firesi (mm)</Alias>
+    <Value>5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Kafa Firesi (mm)</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Baş Takoz Dış Mesafesi (mm)</Alias>
+    <Value>13,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Takoz Delikleri Dış Mesafesi (mm)</Alias>
+    <Value>17</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Manivela Delikleri Dış Mesafesi (mm)</Alias>
+    <Value>83,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Vida ve Soğutma Delikleri Dış Mesafesi Baş (mm)</Alias>
+    <Value>50</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Vida ve Soğutma Delikleri Dış Mesafesi Son (mm)</Alias>
+    <Value>50</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Montaj Delikleri Arası Yatay Boşluk (mm)</Alias>
+    <Value>194</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Vida ve Soğutma Delikleri İnce Tip Baş (mm)</Alias>
+    <Value>60</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Vida ve Soğutma Delikleri İnce Tip Son (mm)</Alias>
+    <Value>50</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Parça Sürme Sıfırlama Yaklaşma Hızı (mm/s)</Alias>
+    <Value>100</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Parça Sürme Sıfırlama Uzaklaşma Hızı (mm/s)</Alias>
+    <Value>30</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Parça Sürme Sıfırlama Hassas Yaklaşma Hızı (mm/s)</Alias>
+    <Value>1</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>İç Gövde Yatay Köşe Offseti (mm)</Alias>
+    <Value>110</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Yatay Köşe Delik Aralığı (mm)</Alias>
+    <Value>110</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Dış Gövde Yatay Köşe Offseti (mm)</Alias>
+    <Value>45</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Dış Gövde Köşebent Delikleri Mesafesi</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Lazer Sıfırlama Hızı Offseti</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Yağlama Aktiflşeme Süresi</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Köşebent Delikleri Dış Mesafesi (mm)</Alias>
+    <Value>20</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Reserve_27</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Reserve_28</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Home Sol</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Home Sağ</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>3 İletken Sol</Alias>
+    <Value>120</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>3 İletken Sağ</Alias>
+    <Value>120</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>4 İletken Sol</Alias>
+    <Value>116,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>4 İletken Sağ</Alias>
+    <Value>116,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>4,5 İletken Sol</Alias>
+    <Value>114,3</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>4,5 İletken Sağ</Alias>
+    <Value>116,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>5 İletken Sol</Alias>
+    <Value>109,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>5 İletken Sağ</Alias>
+    <Value>116,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>5,5 İletken Sol</Alias>
+    <Value>109</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>5,5 İletken Sağ</Alias>
+    <Value>116,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>6 İletken Sol</Alias>
+    <Value>109,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>6 İletken Sağ</Alias>
+    <Value>108,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Köşebent Genişlik</Alias>
+    <Value>84,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Köşebent Genişlik</Alias>
+    <Value>84,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>6 İletken Sağ</Alias>
+    <Value>44,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>5,5 İletken Sağ</Alias>
+    <Value>54,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>5 İletken Sağ</Alias>
+    <Value>51,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>4,5 İletken Sağ</Alias>
+    <Value>51,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>4 İletken Sağ</Alias>
+    <Value>51,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>3 İletken Sağ</Alias>
+    <Value>55</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Home Sağ</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>6 İletken Sol</Alias>
+    <Value>45,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>5,5 İletken Sol</Alias>
+    <Value>47,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Lazer ile Çap 7 Arası Mesafe</Alias>
+    <Value>111,3</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Home Sol</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>4 İletken Sağ</Alias>
+    <Value>116,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Lazer ile 11x20 Arası Mesafe</Alias>
+    <Value>300,75</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>3 İletken Sol</Alias>
+    <Value>120</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>4,5 İletken Sağ</Alias>
+    <Value>116,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Lazer ile Baş Takoz Arası Mesafe</Alias>
+    <Value>490,95</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>4 İletken Sol</Alias>
+    <Value>116,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>5 İletken Sağ</Alias>
+    <Value>116,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Lazer ile Manivela Deliği Arası Mesafe</Alias>
+    <Value>617,05</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>4,5 İletken Sol</Alias>
+    <Value>114,3</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>5,5 İletken Sağ</Alias>
+    <Value>116,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Lazer ile Ana Boşaltma Arası Mesafe</Alias>
+    <Value>1053,05</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>5 İletken Sol</Alias>
+    <Value>109,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>6 İletken Sağ</Alias>
+    <Value>105</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Lazer ile İlave Boşaltma 1 Arası Mesafe</Alias>
+    <Value>1449,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>5,5 İletken Sol</Alias>
+    <Value>109</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Home Sol</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Lazer ile İlave Boşaltma 2 Arası Mesafe</Alias>
+    <Value>1538,7</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>6 İletken Sol</Alias>
+    <Value>108</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>3 İletken Sol</Alias>
+    <Value>55</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Lazer ile Kesme Arası Mesafe</Alias>
+    <Value>1766,6</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Home Sağ</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>4 İletken Sol</Alias>
+    <Value>51,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Lazer ile Kalıplar Arası Mesafe Offseti</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>3 İletken Sağ</Alias>
+    <Value>120</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>4,5 İletken Sol</Alias>
+    <Value>48</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Reserve_81</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Reserve_82</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>5 İletken Sol</Alias>
+    <Value>44,5</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Servo Poz Sol</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Servo Poz Sağ</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Servo Poz Sol</Alias>
+    <Value>62</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Servo Poz Sağ</Alias>
+    <Value>62</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Servo Poz Sol</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Servo Poz Sağ</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Cap7 Sol Vuruş Sayısı</Alias>
+    <Value>9999</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Çap7 Sağ Vuruş Sayısı</Alias>
+    <Value>9999</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>11x20 Vuruş Sayısı</Alias>
+    <Value>5000</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Baş Takoz Vuruş Sayısı</Alias>
+    <Value>5000</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Manivela Vuruş Sayısı</Alias>
+    <Value>5000</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Ana Boşaltma Vuruş Sayısı</Alias>
+    <Value>5000</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>İlave Boşaltma Bir Vuruş Sayısı</Alias>
+    <Value>5000</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>İlave Boşaltma İki Vuruş Sayısı</Alias>
+    <Value>5000</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Kesme Vuruş Sayısı</Alias>
+    <Value>5000</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Toplam Cap7 Sol Vuruş Sayısı</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Toplam Cap7 Sağ Vuruş Sayısı</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Toplam 11x20 Vuruş Sayısı</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Toplam Baş Takoz Vuruş Sayısı</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Toplam Manivela Vuruş Sayısı</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Toplam Ana Boşaltma Vuruş Sayısı</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Toplam İlave Boşaltma Bir Vuruş Sayısı</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Toplam İlave Boşaltma İki Vuruş Sayısı</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Toplam Kesme Vuruş Sayısı</Alias>
+    <Value>0</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Cap7 Sol Yağlama Vuruş Sayısı</Alias>
+    <Value>11</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Cap7 Sağ Yağlama Vuruş Sayısı</Alias>
+    <Value>11</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>11x20 Yağlama Vuruş Sayısı</Alias>
+    <Value>10</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Baş Takoz Yağlama Vuruş Sayısı</Alias>
+    <Value>10</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Manivela Yağlama Vuruş Sayısı</Alias>
+    <Value>15</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Ana Boşaltma Yağlama Vuruş Sayısı</Alias>
+    <Value>14</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>İlave Boşaltma Bir Yağlama Vuruş Sayısı</Alias>
+    <Value>15</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>İlave Boşaltma İki Yağlama Vuruş Sayısı</Alias>
+    <Value>15</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Kesme Yağlama Vuruş Sayısı</Alias>
+    <Value>11</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Reserve_117</Alias>
+    <Value>NaN</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Reserve_118</Alias>
+    <Value>NaN</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Reserve_119</Alias>
+    <Value>NaN</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Reserve_120</Alias>
+    <Value>NaN</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Reserve_121</Alias>
+    <Value>NaN</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Reserve_122</Alias>
+    <Value>NaN</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Reserve_123</Alias>
+    <Value>NaN</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Reserve_124</Alias>
+    <Value>NaN</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+  <Machine_x0020_Parameters_x0020_Nums>
+    <Alias>Reserve_125</Alias>
+    <Value>NaN</Value>
+  </Machine_x0020_Parameters_x0020_Nums>
+</Machine_x0020_Parameters>

@@ -1,0 +1,596 @@
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\Csharp.exe.config
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\Csharp.exe
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\Csharp.pdb
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\LiveCharts.dll
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\LiveCharts.WinForms.dll
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\LiveCharts.Wpf.dll
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\PLCcomMB.dll
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\LiveCharts.pdb
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\LiveCharts.xml
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\LiveCharts.WinForms.xml
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\LiveCharts.Wpf.xml
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\DELL\Desktop\CSharp\Csharp\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Form1.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Warnings.uc_warning.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Warnings.uc_Warnings.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.General.MyMessageBox.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.General.MyNumPad.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.MachinePars.Frm_MachinePars_Login.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_bool.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_numerik.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Alarms.uc_alarm.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Alarms.uc_Alarms.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_startcond.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_StartCondPage.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Signals.uc_signal.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.uc_AboutPage.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.uc_ServicePage.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Signals.uc_SignalsPage.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.ProductionPage.uc_ProductionPage.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.uc_StationStatusPage.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_MachParsPage.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.JogPage.uc_JogPage.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.uc_HomePage.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.Properties.Resources.resources
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.exe
+C:\Users\DELL\Desktop\CSharp\Csharp\obj\Release\Csharp.pdb
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\Csharp.exe.config
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Interop.WMPLib.dll
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.csproj.ResolveComReference.cache
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.exe
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.pdb
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\Csharp.exe
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\Csharp.pdb
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\LiveCharts.dll
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\LiveCharts.WinForms.dll
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\LiveCharts.Wpf.dll
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\PLCcomMB.dll
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\LiveCharts.pdb
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\LiveCharts.xml
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\LiveCharts.WinForms.xml
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\LiveCharts.Wpf.xml
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\Interop.WMPLib.dll
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\CSharp\Csharp\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Form1.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.DelikFormuller.uc_Page_DelikFormuller.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Production.Dialog_AddSubPart.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Production.uc_Production.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Production.uc_SeriUretimPage.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Production.uc_TekUretimPage.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sol.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_GripperFire.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KafaFire.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KalanPart.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KesmeFire.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_SubbPart.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.RecipePars.AddNewDelik.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_11x20Slot.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari_Ters.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sag.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_ManivelaDeligi.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.RecipePars.uc_RecipeParsPage.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Warnings.uc_warning.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Warnings.uc_Warnings.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.General.MyMessageBox.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.General.MyNumPad.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.MachinePars.Frm_MachinePars_Login.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_bool.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_numerik.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Alarms.uc_alarm.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Alarms.uc_Alarms.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_startcond.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_StartCondPage.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Signals.uc_signal.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.uc_AboutPage.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.uc_ServicePage.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.Signals.uc_SignalsPage.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.ProductionPage.uc_ProductionPage.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.uc_StationStatusPage.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_MachParsPage.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.JogPage.uc_JogPage.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Pages.uc_HomePage.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.Properties.Resources.resources
+C:\Users\Dell2\Desktop\CSharp\Csharp\obj\Release\Csharp.csproj.GenerateResource.Cache
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\bin\Release\Csharp.exe.config
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Interop.WMPLib.dll
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\AxInterop.WMPLib.dll
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.csproj.ResolveComReference.cache
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.exe
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.pdb
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\bin\Release\Csharp.exe.config
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\bin\Release\Csharp.exe
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\bin\Release\Csharp.pdb
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\bin\Release\LiveCharts.dll
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\bin\Release\LiveCharts.WinForms.dll
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\bin\Release\LiveCharts.Wpf.dll
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\bin\Release\PLCcomMB.dll
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\bin\Release\LiveCharts.pdb
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\bin\Release\LiveCharts.xml
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\bin\Release\LiveCharts.WinForms.xml
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\bin\Release\LiveCharts.Wpf.xml
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\bin\Release\Interop.WMPLib.dll
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Interop.WMPLib.dll
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\AxInterop.WMPLib.dll
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.csproj.ResolveComReference.cache
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Form1.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.DelikFormuller.uc_Page_DelikFormuller.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Production.Dialog_AddSubPart.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Production.uc_Production.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Production.uc_SeriUretimPage.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Production.uc_TekUretimPage.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sol.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_GripperFire.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KafaFire.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KalanPart.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KesmeFire.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_SubbPart.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.RecipePars.AddNewDelik.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_11x20Slot.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari_Ters.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sag.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_ManivelaDeligi.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.RecipePars.uc_RecipeParsPage.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Warnings.uc_warning.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Warnings.uc_Warnings.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.General.MyMessageBox.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.General.MyNumPad.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.MachinePars.Frm_MachinePars_Login.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_bool.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_numerik.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Alarms.uc_alarm.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Alarms.uc_Alarms.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_startcond.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_StartCondPage.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Signals.uc_signal.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.uc_AboutPage.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.uc_ServicePage.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.Signals.uc_SignalsPage.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.ProductionPage.uc_ProductionPage.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.uc_StationStatusPage.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_MachParsPage.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.JogPage.uc_JogPage.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Pages.uc_HomePage.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.Properties.Resources.resources
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.csproj.GenerateResource.Cache
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.exe
+C:\Users\DefarOtomasyon\Desktop\CSharpV4\Csharp\obj\Release\Csharp.pdb
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\bin\Release\Csharp.exe
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\bin\Release\Csharp.pdb
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\bin\Release\LiveCharts.dll
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\bin\Release\LiveCharts.WinForms.dll
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\bin\Release\LiveCharts.Wpf.dll
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\bin\Release\PLCcomMB.dll
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\bin\Release\LiveCharts.pdb
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\bin\Release\LiveCharts.xml
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\bin\Release\LiveCharts.WinForms.xml
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\bin\Release\LiveCharts.Wpf.xml
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\bin\Release\Interop.WMPLib.dll
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Form1.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.DelikFormuller.uc_Page_DelikFormuller.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Production.Dialog_AddSubPart.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Production.uc_Production.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Production.uc_SeriUretimPage.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Production.uc_TekUretimPage.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sol.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_GripperFire.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KafaFire.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KalanPart.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KesmeFire.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_SubbPart.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.RecipePars.AddNewDelik.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_11x20Slot.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari_Ters.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sag.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_ManivelaDeligi.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.RecipePars.uc_RecipeParsPage.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Warnings.uc_warning.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Warnings.uc_Warnings.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.General.MyMessageBox.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.General.MyNumPad.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.MachinePars.Frm_MachinePars_Login.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_bool.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_numerik.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Alarms.uc_alarm.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Alarms.uc_Alarms.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_startcond.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_StartCondPage.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Signals.uc_signal.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.uc_AboutPage.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.uc_ServicePage.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.Signals.uc_SignalsPage.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.ProductionPage.uc_ProductionPage.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.uc_StationStatusPage.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_MachParsPage.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.JogPage.uc_JogPage.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Pages.uc_HomePage.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.Properties.Resources.resources
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp\Csharp\obj\Release\Csharp.csproj.GenerateResource.Cache
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp Güncel\Csharp\bin\Release\Csharp.exe.config
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp Güncel\Csharp\obj\Release\Interop.WMPLib.dll
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp Güncel\Csharp\obj\Release\AxInterop.WMPLib.dll
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp Güncel\Csharp\obj\Release\Csharp.csproj.ResolveComReference.cache
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp Güncel\Csharp\obj\Release\Csharp.exe
+C:\Users\DefarOtomasyon\Desktop\Gövdeİsleme\Güncel\CSharp Güncel\Csharp\obj\Release\Csharp.pdb
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\bin\Release\Csharp.exe.config
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Interop.WMPLib.dll
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.csproj.ResolveComReference.cache
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.exe
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.pdb
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\bin\Release\Csharp.exe
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\bin\Release\Csharp.pdb
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\bin\Release\LiveCharts.dll
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\bin\Release\LiveCharts.WinForms.dll
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\bin\Release\PLCcomMB.dll
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\bin\Release\LiveCharts.pdb
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\bin\Release\LiveCharts.xml
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\bin\Release\LiveCharts.WinForms.xml
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\bin\Release\Interop.WMPLib.dll
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Form1.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.DelikFormuller.uc_Page_DelikFormuller.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Production.Dialog_AddSubPart.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Production.uc_Production.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Production.uc_SeriUretimPage.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Production.uc_TekUretimPage.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sol.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_GripperFire.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KafaFire.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KalanPart.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KesmeFire.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_SubbPart.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.RecipePars.AddNewDelik.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_11x20Slot.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari_Ters.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sag.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_ManivelaDeligi.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.RecipePars.uc_RecipeParsPage.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Warnings.uc_warning.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Warnings.uc_Warnings.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.General.MyMessageBox.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.General.MyNumPad.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.MachinePars.Frm_MachinePars_Login.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_bool.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_numerik.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Alarms.uc_alarm.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Alarms.uc_Alarms.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_startcond.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_StartCondPage.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Signals.uc_signal.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.uc_AboutPage.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.uc_ServicePage.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.Signals.uc_SignalsPage.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.ProductionPage.uc_ProductionPage.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.uc_StationStatusPage.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_MachParsPage.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.JogPage.uc_JogPage.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Pages.uc_HomePage.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.Properties.Resources.resources
+C:\Users\Dell2\Desktop\CSharp Güncel\Csharp\obj\Release\Csharp.csproj.GenerateResource.Cache
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\bin\Release\Csharp.exe.config
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\bin\Release\Csharp.exe
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\bin\Release\Csharp.pdb
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\bin\Release\LiveCharts.dll
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\bin\Release\LiveCharts.WinForms.dll
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\bin\Release\PLCcomMB.dll
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\bin\Release\LiveCharts.pdb
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\bin\Release\LiveCharts.xml
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\bin\Release\LiveCharts.WinForms.xml
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\bin\Release\Interop.WMPLib.dll
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.csproj.AssemblyReference.cache
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Interop.WMPLib.dll
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.csproj.ResolveComReference.cache
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Form1.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.DelikFormuller.uc_Page_DelikFormuller.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.Dialog_AddSubPart.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.uc_Production.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.uc_SeriUretimPage.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.uc_TekUretimPage.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_11x20Slot2.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_IlaveBosaltma6.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_IlaveBosaltma45_5.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_AnaBosaltma.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_AnaBosaltmaAlt.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_AnaBosaltmaUst.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sol.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_GripperFire.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KafaFire.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KalanPart.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KesmeFire.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_SubbPart.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.RecipePars.AddNewDelik.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_11x20Slot.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari_Ters.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sag.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_ManivelaDeligi.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.RecipePars.uc_RecipeParsPage.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Warnings.uc_warning.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Warnings.uc_Warnings.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.General.MyMessageBox.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.General.MyNumPad.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.MachinePars.Frm_MachinePars_Login.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_bool.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_numerik.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Alarms.uc_alarm.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Alarms.uc_Alarms.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_startcond.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_StartCondPage.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Signals.uc_signal.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.uc_AboutPage.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.uc_ServicePage.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.Signals.uc_SignalsPage.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.ProductionPage.uc_ProductionPage.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.uc_StationStatusPage.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_MachParsPage.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.JogPage.uc_JogPage.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Pages.uc_HomePage.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.Properties.Resources.resources
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.csproj.GenerateResource.cache
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.csproj.CopyComplete
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.exe
+C:\Users\Dell2\Desktop\02.12.2022\Csharp\obj\Release\Csharp.pdb
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\bin\Release\Csharp.exe.config
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\bin\Release\Csharp.exe
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\bin\Release\Csharp.pdb
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\bin\Release\LiveCharts.dll
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\bin\Release\LiveCharts.WinForms.dll
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\bin\Release\PLCcomMB.dll
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\bin\Release\LiveCharts.pdb
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\bin\Release\LiveCharts.xml
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\bin\Release\LiveCharts.WinForms.xml
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\bin\Release\Interop.WMPLib.dll
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Interop.WMPLib.dll
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.csproj.ResolveComReference.cache
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Controls.PistonUpDown.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Form1.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.DelikFormuller.uc_Page_DelikFormuller.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.Dialog_AddSubPart.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.uc_Production.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.uc_SeriUretimPage.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.uc_TekUretimPage.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_11x20Slot2.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_IlaveBosaltma6.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_IlaveBosaltma45_5.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_AnaBosaltma.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_AnaBosaltmaAlt.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_AnaBosaltmaUst.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sol.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_GripperFire.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KafaFire.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KalanPart.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KesmeFire.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_SubbPart.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.RecipePars.AddNewDelik.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_11x20Slot.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari_Ters.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sag.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_ManivelaDeligi.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.RecipePars.uc_RecipeParsPage.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Warnings.uc_warning.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Warnings.uc_Warnings.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.General.MyMessageBox.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.General.MyNumPad.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.MachinePars.Frm_MachinePars_Login.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_bool.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_numerik.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Alarms.uc_alarm.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Alarms.uc_Alarms.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_startcond.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_StartCondPage.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Signals.uc_signal.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.uc_AboutPage.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.uc_ServicePage.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.Signals.uc_SignalsPage.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.ProductionPage.uc_ProductionPage.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.uc_StationStatusPage.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_MachParsPage.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.JogPage.uc_JogPage.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Pages.uc_HomePage.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.Properties.Resources.resources
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.csproj.GenerateResource.cache
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.csproj.CopyComplete
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.exe
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.pdb
+C:\Users\Dell2\Desktop\ibo\Güncel CSharp 21.12.2022\Csharp\obj\Release\Csharp.csproj.AssemblyReference.cache
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\Csharp.exe.config
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\Csharp.exe
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\Csharp.pdb
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\LiveCharts.dll
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\LiveCharts.WinForms.dll
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\PLCcomMB.dll
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\LiveCharts.pdb
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\LiveCharts.xml
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\LiveCharts.WinForms.xml
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\Interop.FOXITREADERLib.dll
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\Interop.WMPLib.dll
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\AxInterop.FOXITREADERLib.dll
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.csproj.AssemblyReference.cache
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Interop.FOXITREADERLib.dll
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Interop.WMPLib.dll
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\AxInterop.FOXITREADERLib.dll
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\AxInterop.WMPLib.dll
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.csproj.ResolveComReference.cache
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Controls.PistonUpDown.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Form1.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.DelikFormuller.uc_Page_DelikFormuller.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.Dialog_AddSubPart.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.uc_Production.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.uc_SeriUretimPage.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.uc_TekUretimPage.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_11x20Slot2.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_IlaveBosaltma6.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_IlaveBosaltma45_5.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_AnaBosaltma.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_AnaBosaltmaAlt.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_AnaBosaltmaUst.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sol.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_GripperFire.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KafaFire.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KalanPart.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KesmeFire.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_SubbPart.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.RecipePars.AddNewDelik.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_11x20Slot.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari_Ters.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sag.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_ManivelaDeligi.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.RecipePars.uc_RecipeParsPage.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Warnings.uc_warning.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Warnings.uc_Warnings.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.General.MyMessageBox.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.General.MyNumPad.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.MachinePars.Frm_MachinePars_Login.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_bool.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_numerik.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Alarms.uc_alarm.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Alarms.uc_Alarms.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_startcond.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_StartCondPage.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Signals.uc_signal.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.uc_AboutPage.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.uc_ServicePage.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Signals.uc_SignalsPage.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.ProductionPage.uc_ProductionPage.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.uc_StationStatusPage.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_MachParsPage.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.JogPage.uc_JogPage.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.uc_HomePage.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Properties.Resources.resources
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.csproj.GenerateResource.cache
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.csproj.CopyComplete
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.exe
+C:\Users\DefarOtomasyon\Desktop\EAE PROJECTS\GÖVDE İŞLEME\Güncel\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.pdb
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\bin\Release\Csharp.exe.config
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\bin\Release\Csharp.exe
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\bin\Release\Csharp.pdb
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\bin\Release\LiveCharts.dll
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\bin\Release\LiveCharts.WinForms.dll
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\bin\Release\PLCcomMB.dll
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\bin\Release\LiveCharts.pdb
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\bin\Release\LiveCharts.xml
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\bin\Release\LiveCharts.WinForms.xml
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\bin\Release\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Controls.PistonUpDown.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Form1.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.DelikFormuller.uc_Page_DelikFormuller.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.Dialog_AddSubPart.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.uc_Production.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.uc_SeriUretimPage.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.uc_TekUretimPage.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_11x20Slot2.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_IlaveBosaltma6.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_IlaveBosaltma45_5.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_AnaBosaltma.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_AnaBosaltmaAlt.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_AnaBosaltmaUst.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sol.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_GripperFire.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KafaFire.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KalanPart.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_KesmeFire.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.uc_SubbPart.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.RecipePars.AddNewDelik.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_11x20Slot.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari_Ters.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_BasTakozSlotlari.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_Cap7_Sag.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Production.usercontrols.DelikUserController.uc_ManivelaDeligi.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.RecipePars.uc_RecipeParsPage.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Warnings.uc_warning.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Warnings.uc_Warnings.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.General.MyMessageBox.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.General.MyNumPad.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.MachinePars.Frm_MachinePars_Login.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_bool.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_machinepar_numerik.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Alarms.uc_alarm.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Alarms.uc_Alarms.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_startcond.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.StartConditions.uc_StartCondPage.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Signals.uc_signal.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.uc_AboutPage.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.uc_ServicePage.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.Signals.uc_SignalsPage.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.ProductionPage.uc_ProductionPage.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.uc_StationStatusPage.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.MachinePars.uc_MachParsPage.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.JogPage.uc_JogPage.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Pages.uc_HomePage.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.Properties.Resources.resources
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.csproj.CopyComplete
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.exe
+C:\Users\DELL\Desktop\Güncel CSharp 12.01.2023\Csharp\obj\Release\Csharp.pdb
